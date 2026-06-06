@@ -11,6 +11,11 @@ body{
     background-color: hsl(0, 0%, 95%);
 }
 
+.Cal-title {
+    justify-content: center;
+     font-size: clamp(2rem, 8vw, 1rem);
+    vertical-align: middle;
+
 #calculator{
     font-family: Arial, sans-serif;
     background-color: hsl(0, 0%, 15%);
